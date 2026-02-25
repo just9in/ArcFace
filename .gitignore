@@ -1,0 +1,22 @@
+# Virtual environment
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Pickle database (regenerated locally)
+face_db.pkl
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Test images
+test.jpeg
