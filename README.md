@@ -1,4 +1,4 @@
-# ArcFace Recognition (RTBD)
+# ArcFace Recognition 
 
 Simple face-recognition project using **InsightFace (ArcFace)**, with:
 - local webcam recognition
