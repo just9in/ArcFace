@@ -1,3 +1,5 @@
+# this was made to store the images to .pkl file from known_face folder , later embedded into attendance.py with automation inside it.
+
 import insightface
 import cv2
 import os

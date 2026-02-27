@@ -1,0 +1,15 @@
+{
+  "name": "attendance-node",
+  "version": "1.0.0",
+  "description": "Face detection and embedding extraction API using RetinaFace + ArcFace ONNX models (Node.js port)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "multer": "^1.4.5-lts.1",
+    "onnxruntime-node": "^1.21.0",
+    "sharp": "^0.33.0"
+  }
+}
